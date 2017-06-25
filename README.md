@@ -6,3 +6,7 @@ I keep this pic of myself in my wallet so I can see it when I'm about to waste m
 
 ![walletsafety](http://funnypictures1.fjcdn.com/pictures/Terry+crews+in+case+you+were+thinking+off+wasting+money_1f6f21_6041817.jpg)  
 *source: https://www.buzzfeed.com/victoriasanusi/thats-30-cent-worth-of-oatmel?utm_term=.nlg9pyEyq#.junVeM2MA*
+
+## Amout of:
+# 42 CRRR
+Next Lancédédé: **date**
