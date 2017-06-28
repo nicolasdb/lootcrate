@@ -10,6 +10,7 @@ I keep this pic of Terry Crews* in my wallet so I can see it when I'm about to w
 https://youtu.be/SYQ4yfWyYpM
 
 ## Amout of:
-# Nicolas: 42 CRRR
-# Yannick: 6 CRRR
+# token: 42 CRRR
+# DéBières : 4
+~~# Yannick: 6 CRRR~~ chaqu'un son portefeuille. :)
 Next Lancédédé: **date**
