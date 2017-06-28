@@ -10,5 +10,6 @@ I keep this pic of Terry Crews* in my wallet so I can see it when I'm about to w
 https://youtu.be/SYQ4yfWyYpM
 
 ## Amout of:
-# 42 CRRR
+# Nicolas: 42 CRRR
+# Yannick: 6 CRRR
 Next Lancédédé: **date**
