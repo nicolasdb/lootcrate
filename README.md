@@ -1,4 +1,4 @@
-# crrr
+# Lootcrate
 Wallet digital for Openfab currency
 
 ## Security check
