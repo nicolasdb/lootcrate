@@ -1,5 +1,9 @@
 # Lootcrate
-Digital crate for Openfab rewards
+Digital crate for Openfab rewards  
+
+|Crrr	|Dbière	|[D6](/nicolasdb/lootcrate/blob/master/README.md#d6)		| D8 | D12 | D20 | Badges  |
+|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
+|71		|1			|	4		|  0   |  2   |  0 |    |
 
 ## Security check
 ![walletsafety](http://funnypictures1.fjcdn.com/pictures/Terry+crews+in+case+you+were+thinking+off+wasting+money_1f6f21_6041817.jpg)  
@@ -23,11 +27,13 @@ Next Lancédédé: **date**
 
 
 ## Détails cartes valeurs
-### Dé 6 : 
+### D6
 - chercher 1 bac de maes au Delhaize #66 
 - Nettoyage buro aspi #81 
 - Nettoyage buro eau #81
 - Poubelles #81 
-### Dé 12 : 
+### D8
+### D12
 - chercher 1 bac de maes au colruyt #76 
 - Nettoyage buro toilette #81
+### D20
