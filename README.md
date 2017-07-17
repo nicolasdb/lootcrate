@@ -22,6 +22,7 @@ Next Lancédédé: **date**
 
 ## Détails cartes valeurs
 ### DBière
+- #16, #37, #38, #48, #49
 ### D6
 - chercher 1 bac de maes au Delhaize #66 
 - Nettoyage buro aspi #81 
