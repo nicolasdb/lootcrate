@@ -10,7 +10,24 @@ I keep this pic of Terry Crews* in my wallet so I can see it when I'm about to w
 https://youtu.be/SYQ4yfWyYpM
 
 ## Amout of:
-# token: 42 CRRR
-# DéBières : 4
-~~# Yannick: 6 CRRR~~ chaqu'un son portefeuille. :)
+# token: 71 CRRR
+## carte valeurs
+### DéBières : 1
+### Dé 6 : 4
+### Dé 12 : 2
+# badges:
+## fée du logis : 4 tâches nettoyage
+## TimeLord : 84 min
+
 Next Lancédédé: **date**
+
+
+## Détails cartes valeurs
+### Dé 6 : 
+- chercher 1 bac de maes au Delhaize #66 
+- Nettoyage buro aspi #81 
+- Nettoyage buro eau #81
+- Poubelles #81 
+### Dé 12 : 
+- chercher 1 bac de maes au colruyt #76 
+- Nettoyage buro toilette #81
