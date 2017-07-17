@@ -1,7 +1,7 @@
 # Lootcrate
 Digital crate for Openfab rewards  
 
-|Crrr	|Dbière	|[D6](/nicolasdb/lootcrate/blob/master/README.md#d6)		| D8 | D12 | D20 | Badges  |
+|Crrr	|[Dbière](#DBières)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
 |:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
 |71		|1			|	4		|  0   |  2   |  0 |    |
 
@@ -16,7 +16,7 @@ https://youtu.be/SYQ4yfWyYpM
 ## Amout of:
 # token: 71 CRRR
 ## carte valeurs
-### DéBières : 1
+### DéBière : 1
 ### Dé 6 : 4
 ### Dé 12 : 2
 # badges:
@@ -27,6 +27,7 @@ Next Lancédédé: **date**
 
 
 ## Détails cartes valeurs
+### DBière
 ### D6
 - chercher 1 bac de maes au Delhaize #66 
 - Nettoyage buro aspi #81 
