@@ -1,5 +1,5 @@
 # Lootcrate
-Wallet digital for Openfab currency
+Digital crate for Openfab rewards
 
 ## Security check
 ![walletsafety](http://funnypictures1.fjcdn.com/pictures/Terry+crews+in+case+you+were+thinking+off+wasting+money_1f6f21_6041817.jpg)  
