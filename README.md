@@ -22,14 +22,14 @@ Next Lancédédé: **date**
 
 ## Détails cartes valeurs
 ### DBière
-- #16, #37, #38, #48, #49
+- [#16](https://github.com/openfab-lab/openfab/issues/16), [#37](https://github.com/openfab-lab/openfab/issues/37), [#38](https://github.com/openfab-lab/openfab/issues/38), [#48](https://github.com/openfab-lab/openfab/issues/48), [#49](https://github.com/openfab-lab/openfab/issues/49)
 ### D6
-- chercher 1 bac de maes au Delhaize #66 
-- Nettoyage buro aspi #81 
-- Nettoyage buro eau #81
-- Poubelles #81 
+- chercher 1 bac de maes au Delhaize [#66](https://github.com/openfab-lab/openfab/issues/66)
+- Nettoyage buro aspi [#81](https://github.com/openfab-lab/openfab/issues/81)
+- Nettoyage buro eau [#81](https://github.com/openfab-lab/openfab/issues/81)
+- Poubelles [#81](https://github.com/openfab-lab/openfab/issues/81) 
 ### D8
 ### D12
-- chercher 1 bac de maes au colruyt #76 
-- Nettoyage buro toilette #81
+- chercher 1 bac de maes au colruyt [#76](https://github.com/openfab-lab/openfab/issues/76)
+- Nettoyage buro toilette [#81](https://github.com/openfab-lab/openfab/issues/81)
 ### D20
