@@ -5,13 +5,7 @@ Digital crate for Openfab rewards
 |:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
 |71		|1			|	4		|  0   |  2   |  0 |    |
 
-## Security check
-![walletsafety](http://funnypictures1.fjcdn.com/pictures/Terry+crews+in+case+you+were+thinking+off+wasting+money_1f6f21_6041817.jpg)  
-*source: https://www.buzzfeed.com/victoriasanusi/thats-30-cent-worth-of-oatmel?utm_term=.nlg9pyEyq#.junVeM2MA*  
-
-I keep this pic of Terry Crews* in my wallet so I can see it when I'm about to waste money on things I don't need.  
-*Mais qui est Terry Crews?  
-https://youtu.be/SYQ4yfWyYpM
+![looooot](https://user-images.githubusercontent.com/12049360/28260660-653336a6-6adc-11e7-85ea-5d7926b4796b.jpg)
 
 ## Amout of:
 # token: 71 CRRR
