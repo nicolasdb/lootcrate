@@ -22,7 +22,7 @@ Next Lancédédé: **date**
 
 ## Détails cartes valeurs
 ## crrr
-[#82](https://github.com/openfab-lab/openfab/issues/82), 
+[#89](https://github.com/openfab-lab/openfab/issues/89), 
 ### DBière
 - [#16](https://github.com/openfab-lab/openfab/issues/16), [#37](https://github.com/openfab-lab/openfab/issues/37), [#38](https://github.com/openfab-lab/openfab/issues/38), [#48](https://github.com/openfab-lab/openfab/issues/48), [#49](https://github.com/openfab-lab/openfab/issues/49)
 ### D6
