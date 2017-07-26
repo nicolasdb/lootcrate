@@ -1,7 +1,7 @@
 # Lootcrate
 Digital crate for Openfab rewards  
 
-|[Crrr](#token)	|[Dbière](#DBière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
+|[Crrr](#token)	|[DBière](#DBière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
 |:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
 |62		|0			|	4		|  0   |  2   |  0 | 6  |
 
@@ -11,7 +11,6 @@ Digital crate for Openfab rewards
 # token
 62 CRRR
 ## carte valeurs
-### DéBière : 0
 ### Dé 6 : 4
 ### Dé 12 : 2
 # badges:
@@ -27,6 +26,7 @@ Next Lancédédé: **date**
 
 ## Détails cartes valeurs
 ### DBière
+**count:** 0  
 - [#16](https://github.com/openfab-lab/openfab/issues/16), [#37](https://github.com/openfab-lab/openfab/issues/37), [#38](https://github.com/openfab-lab/openfab/issues/38), [#48](https://github.com/openfab-lab/openfab/issues/48), [#49](https://github.com/openfab-lab/openfab/issues/49)
 ### D6
 - chercher 1 bac de maes au Delhaize [#66](https://github.com/openfab-lab/openfab/issues/66)
