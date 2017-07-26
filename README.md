@@ -8,7 +8,8 @@ Digital crate for Openfab rewards
 ![looooot](https://user-images.githubusercontent.com/12049360/28260660-653336a6-6adc-11e7-85ea-5d7926b4796b.jpg)
 
 ## Amout of:
-# token: 62 CRRR
+# token
+62 CRRR
 ## carte valeurs
 ### DéBière : 0
 ### Dé 6 : 4
