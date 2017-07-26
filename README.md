@@ -3,23 +3,23 @@ Digital crate for Openfab rewards
 
 |Crrr	|[Dbière](#DBières)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
 |:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|63		|0			|	4		|  0   |  2   |  0 |    |
+|62		|0			|	4		|  0   |  2   |  0 | 6  |
 
 ![looooot](https://user-images.githubusercontent.com/12049360/28260660-653336a6-6adc-11e7-85ea-5d7926b4796b.jpg)
 
 ## Amout of:
-# token: 63 CRRR
+# token: 62 CRRR
 ## carte valeurs
 ### DéBière : 0
 ### Dé 6 : 4
 ### Dé 12 : 2
 # badges:
 ## Github : 619 commits
-## Lasersaur : 0 tâches
-## Inkscape : 0 tâches
+## Lasersaur : 5 tâches
+## Inkscape : 5 tâches
 ## Fusion360 : 0 tâches
 ## fée du logis : 4 tâches nettoyage
-## TimeLord : 84 min
+## TimeLord : 23 heures
 
 Next Lancédédé: **date**
 
