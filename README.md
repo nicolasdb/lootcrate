@@ -19,7 +19,7 @@ Digital crate for Openfab rewards
 ## Inkscape : 5 tâches
 ## Fusion360 : 0 tâches
 ## fée du logis : 4 tâches nettoyage
-## TimeLord : 23 heures
+## TimeLord [ :star: :star: :star: :star: :star2: ]: 23 heures
 
 Next Lancédédé: **date**
 
