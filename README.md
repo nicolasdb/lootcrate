@@ -1,7 +1,7 @@
 # Lootcrate
 Digital crate for Openfab rewards  
 
-|Crrr	|[Dbière](#DBières)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
+|[Crrr](#token)	|[Dbière](#DBière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
 |:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
 |62		|0			|	4		|  0   |  2   |  0 | 6  |
 
