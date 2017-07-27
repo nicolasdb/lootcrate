@@ -1,7 +1,7 @@
 # Lootcrate
 Digital crate for Openfab rewards  
 
-|[Crrr](#token)	|[DBière](#DBière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
+|[Crrr](#token)	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
 |:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
 |62		|0			|	4		|  0   |  2   |  0 | 6  |
 
@@ -15,11 +15,12 @@ Digital crate for Openfab rewards
 ### Dé 12 : 2
 # badges:
 ## Github [ :star: :star: :star: :star: :star2: :star: ] : 619 commits
-## Lasersaur : 5 tâches
-## Inkscape : 5 tâches
-## Fusion360 : 0 tâches
-## fée du logis : 4 tâches nettoyage
+## Lasersaur [ :star: ]: 5 tâches
+## Inkscape [ :star: ]: 5 tâches
+## Fusion360 [ :star: :star: ]: 12 modèles
+## fée du logis [ :star: ]: 4 tâches nettoyage
 ## TimeLord [ :star: :star: :star: :star: :star2: ]: 23 heures
+## 3dprint [ :star: ]: 7 prints
 
 Next Lancédédé: **date**
 
