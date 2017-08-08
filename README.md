@@ -1,3 +1,4 @@
+
 # Lootcrate
 Digital crate for Openfab rewards  
 
@@ -7,16 +8,13 @@ Digital crate for Openfab rewards
 
 ![looooot](https://user-images.githubusercontent.com/12049360/28260660-653336a6-6adc-11e7-85ea-5d7926b4796b.jpg)
 
-# Amout of:
- 
-## carte valeurs
-### Dé 6 : 4
-### Dé 12 : 2
 # badges:
+## Github
 <img src="https://user-images.githubusercontent.com/12049360/29082385-9d9fe38c-7c65-11e7-9aa7-dfede0df31fc.png" width="200"></img>    
-<img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083011-97eee36e-7c67-11e7-848c-229e16ebc77a.png" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img>
-### 862 commits > Level 8    
+<img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29084004-fb521f0e-7c6a-11e7-839f-64d7c482f278.gif" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> 
 
+### 862 commits > Level 8    
+## TimeLord
 <img src="https://user-images.githubusercontent.com/12049360/29082390-9dc5c9c6-7c65-11e7-9982-a0cb464c0b73.png" width="200"></img>   
 <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083490-35c05b76-7c69-11e7-91cc-3c123905533a.jpg" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> 
 ### 40 heures > Level 7
@@ -27,6 +25,13 @@ Digital crate for Openfab rewards
 ## fée du logis [ :star: ]: 4 tâches nettoyage
 ## 3dprint [ :star: ]: 12 prints
 ## buro274 [ :star: ]
+<img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083011-97eee36e-7c67-11e7-848c-229e16ebc77a.png" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img>
+
+# Amout of:
+ 
+## carte valeurs
+### Dé 6 : 4
+### Dé 12 : 2
 
 Next Lancédédé: **date**
 
