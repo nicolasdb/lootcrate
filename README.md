@@ -14,7 +14,7 @@ Digital crate for Openfab rewards
 ### Dé 6 : 4
 ### Dé 12 : 2
 # badges:
-## Github [ :star: :star: :star: :star: :star2: :star: ] : 619 commits
+## Github [ :star: :star: :star: :star: :star2: :star: :star: :star: ] : 862 commits
 ## Lasersaur [ :star: ]: 5 tâches
 ## Inkscape [ :star: ]: 5 tâches
 ## Fusion360 [ :star: :star: ]: 12 modèles
