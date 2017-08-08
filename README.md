@@ -20,7 +20,7 @@ Digital crate for Openfab rewards
 ## Fusion360 [ :star: :star: ]: 12 modèles
 ## fée du logis [ :star: ]: 4 tâches nettoyage
 ## TimeLord [ :star: :star: :star: :star: :star2: ]: 23 heures
-## 3dprint [ :star: ]: 7 prints
+## 3dprint [ :star: ]: 12 prints
 
 Next Lancédédé: **date**
 
