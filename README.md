@@ -1,3 +1,8 @@
+[git01]: https://user-images.githubusercontent.com/12049360/29084849-a55c597c-7c6d-11e7-8b70-5bae811ca5c1.png
+[thundercat]: https://user-images.githubusercontent.com/12049360/29084854-a7805d84-7c6d-11e7-92ce-83178d8c2e7a.gif
+[dalek-icon]: https://user-images.githubusercontent.com/12049360/29084857-a9bc259c-7c6d-11e7-9b84-05fe2fb8e8db.jpg
+[tardis]: https://user-images.githubusercontent.com/12049360/29084870-ab320324-7c6d-11e7-9942-78547f363787.jpg
+
 
 # Lootcrate
 Digital crate for Openfab rewards  
@@ -11,12 +16,12 @@ Digital crate for Openfab rewards
 # badges:
 ## Github
 <img src="https://user-images.githubusercontent.com/12049360/29082385-9d9fe38c-7c65-11e7-9aa7-dfede0df31fc.png" width="200"></img>    
-<img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29084004-fb521f0e-7c6a-11e7-839f-64d7c482f278.gif" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083991-edb33a36-7c6a-11e7-849a-1ee533bd8fd7.png" width="40"></img> 
-
+![git01]![git01]![git01]![git01]![thundercat]![git01]![git01]![git01]
 ### 862 commits > Level 8    
+
 ## TimeLord
-<img src="https://user-images.githubusercontent.com/12049360/29082390-9dc5c9c6-7c65-11e7-9982-a0cb464c0b73.png" width="200"></img>   
-<img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083490-35c05b76-7c69-11e7-91cc-3c123905533a.jpg" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083397-e2586320-7c68-11e7-87fa-d2ee2889fbfd.jpg" width="40"></img> 
+<img src="https://user-images.githubusercontent.com/12049360/29082390-9dc5c9c6-7c65-11e7-9982-a0cb464c0b73.png" width="200"></img>     
+![dalek-icon]![dalek-icon]![dalek-icon]![dalek-icon]![tardis]![dalek-icon]![dalek-icon]
 ### 40 heures > Level 7
 
 ## Lasersaur [ :star: ]: 5 tâches
