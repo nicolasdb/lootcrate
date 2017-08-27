@@ -26,7 +26,7 @@ Digital crate for Openfab rewards
 
 ## Lasersaur [ :star: ]: 5 tâches
 ## Inkscape [ :star: ]: 5 tâches
-## Fusion360 [ :star: :star: ]: 12 modèles
+## Fusion360 [ :star: :star: ]: 13 modèles
 ## fée du logis [ :star: ]: 4 tâches nettoyage
 ## 3dprint [ :star: ]: 12 prints
 ## buro274 [ :star: ]
