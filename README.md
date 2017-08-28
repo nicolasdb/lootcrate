@@ -2,14 +2,14 @@
 [thundercat]: https://user-images.githubusercontent.com/12049360/29084854-a7805d84-7c6d-11e7-92ce-83178d8c2e7a.gif
 [dalek-icon]: https://user-images.githubusercontent.com/12049360/29084857-a9bc259c-7c6d-11e7-9b84-05fe2fb8e8db.jpg
 [tardis]: https://user-images.githubusercontent.com/12049360/29084870-ab320324-7c6d-11e7-9942-78547f363787.jpg
-
+[crrr]: https://user-images.githubusercontent.com/12049360/29777251-a3224790-8c0b-11e7-8751-848ac94bf6bf.png
 
 # Lootcrate
 Digital crate for Openfab rewards  
 
 |(Crrr total)	|Crrr used	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
 |:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|111	<img src="https://user-images.githubusercontent.com/12049360/29018214-8c4c7e30-7b5a-11e7-8531-cab29019b18a.png" width="10"></img>	|80	<img src="https://user-images.githubusercontent.com/12049360/29018214-8c4c7e30-7b5a-11e7-8531-cab29019b18a.png" width="10"></img>	| (5) 0			|	(4) 4		|  0   |  (2) 2   |  0 | 8  |
+|111	![crrr]	|80	![crrr]	| (5) 0			|	(4) 4		|  0   |  (2) 2   |  0 | 8  |
 
 ![looooot](https://user-images.githubusercontent.com/12049360/28260660-653336a6-6adc-11e7-85ea-5d7926b4796b.jpg)
 
