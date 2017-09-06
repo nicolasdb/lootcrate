@@ -7,7 +7,7 @@
 # Lootcrate
 Digital crate for Openfab rewards  
 
-|(Crrr total)	|Crrr used	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#d20) | [Badges](#badges)  |
+|(Crrr total)	|Crrr used	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
 |111	![crrr]	|80	![crrr]	| (5) 0			|	(4) 4		|  0   |  (2) 2   |  0 | 8  |
 
@@ -54,4 +54,6 @@ Next Lancédédé: **date**
 ### D12
 - chercher 1 bac de maes au colruyt [#76](https://github.com/openfab-lab/openfab/issues/76)
 - Nettoyage buro toilette [#81](https://github.com/openfab-lab/openfab/issues/81)
+
+<a name="20"/>
 ### D20
