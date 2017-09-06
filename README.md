@@ -56,4 +56,5 @@ Next Lancédédé: **date**
 - Nettoyage buro toilette [#81](https://github.com/openfab-lab/openfab/issues/81)
 
 <a name="20"/>
+
 ### D20
