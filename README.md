@@ -19,7 +19,7 @@ Digital crate for Openfab rewards
 ## Github
 <img src="https://user-images.githubusercontent.com/12049360/29082385-9d9fe38c-7c65-11e7-9aa7-dfede0df31fc.png" width="200"></img>    
 ![git01]![git01]![git01]![git01]![thundercat]![git01]![git01]![git01]
-### 862 commits > Level 8    
+### 1050 commits > Level 8    
 
 ## TimeLord
 <img src="https://user-images.githubusercontent.com/12049360/29082390-9dc5c9c6-7c65-11e7-9982-a0cb464c0b73.png" width="200"></img>     
