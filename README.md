@@ -11,7 +11,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|Crrr used	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|117	![crrr]	|80	![crrr]	| (5) 1			|	(4) 5		|  0   |  (2) 2   |  0 | 8  |
+|117	![crrr]	|80	![crrr]	| (6) 0			|	(4) 5		|  0   |  (2) 2   |  0 | 8  |
 
 ![looooot](https://user-images.githubusercontent.com/12049360/28260660-653336a6-6adc-11e7-85ea-5d7926b4796b.jpg)
 
