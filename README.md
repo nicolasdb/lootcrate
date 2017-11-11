@@ -6,6 +6,11 @@
 <note et commentaire>
 <a name="headers"/>
 
+---
+title: "Lootcrate"
+excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+---
+
 # Lootcrate
 Digital crate for Openfab rewards  
 
