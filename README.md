@@ -1,6 +1,6 @@
 ---
 title: "Lootcrate"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "All the loot I collect and all the badges I earn"
 ---
 
 
