@@ -11,7 +11,7 @@ excerpt: "All the loot I collect and all the badges I earn"
 [crrr]: https://user-images.githubusercontent.com/12049360/29777251-a3224790-8c0b-11e7-8751-848ac94bf6bf.png
 <note et commentaire>
 <a name="headers"/>
-
+<Use \ for avoiding auto syntaxe on markdown for + or other symboles>
 
 
 # Lootcrate
