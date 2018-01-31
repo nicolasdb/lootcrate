@@ -21,6 +21,10 @@ Digital crate for Openfab rewards
 |:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
 |117	![crrr]	|80	![crrr]	| (6) 3			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
+>**(x) y**  
+>(x) = nombre de carte jouée (défausse)  
+>  y = nombre de carte non jouée (main)
+
 ![looooot](https://user-images.githubusercontent.com/12049360/28260660-653336a6-6adc-11e7-85ea-5d7926b4796b.jpg)
 
 # badges:
