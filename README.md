@@ -19,7 +19,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|Crrr used	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|259	![crrr]	|80	![crrr]	| (6) 3			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
+|434	![crrr]	|80	![crrr]	| (6) 3			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
