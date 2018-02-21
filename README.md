@@ -17,11 +17,9 @@ excerpt: "All the loot I collect and all the badges I earn"
 # Lootcrate
 Digital crate for Openfab rewards  
 
-|(Crrr total)	|Crrr used	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
-|:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|434	![crrr]	|340	![crrr]	| (6) 3			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
-
-> disponible 94 ![crrr]
+|(Crrr total)	|(Crrr used)	| Crrr	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
+|:---:|:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
+|514	![crrr]	|340	![crrr]	|174	![crrr]	| (6) 3			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
