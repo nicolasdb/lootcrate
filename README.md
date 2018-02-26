@@ -38,8 +38,8 @@ Digital crate for Openfab rewards
 ![dalek-icon]![dalek-icon]![dalek-icon]![dalek-icon]![tardis]![dalek-icon]![dalek-icon]![dalek-icon]
 ### 64 heures > Level 8
 
-## Lasersaur [ :star: ]: 6 tâches
-## Inkscape [ :star: ]: 6 tâches
+## Lasersaur [ :star: ]: 7 tâches
+## Inkscape [ :star: ]: 7 tâches
 ## Fusion360 [ :star: :star: ]: 13 modèles
 ## CNC [ :headphones: ]: 
 type *2D* **1**  
