@@ -45,7 +45,7 @@ Digital crate for Openfab rewards
 type *2D* **1**  
 type *2.5D*   
 type *3D*   
-## fée du logis [ :star: ]: 5 tâches nettoyage
+## fée du logis [ :star: ]: 6 tâches nettoyage
 ## 3dprint [ :star: ]: 29 prints
 ## buro274 [ :star: ]
 <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083011-97eee36e-7c67-11e7-848c-229e16ebc77a.png" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img>
