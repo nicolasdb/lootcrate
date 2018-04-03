@@ -19,7 +19,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|(Crrr used)	| Crrr	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:---:|:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|534	![crrr]	|385	![crrr]	|149	![crrr]	| (6) 4			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
+|851	![crrr]	|385	![crrr]	|466	![crrr]	| (6) 4			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
@@ -45,6 +45,7 @@ Digital crate for Openfab rewards
 type *2D* **1**  
 type *2.5D*   
 type *3D*   
+## Menuiserie [ :star: ]: 1    
 ## fée du logis [ :star: ]: 6 tâches nettoyage
 ## 3dprint [ :star: ]: 39 prints
 ## buro274 [ :star: ]
