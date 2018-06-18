@@ -58,6 +58,9 @@ type *dossier ApP* **none**
 
 # Amout of:
  
+<details>
+  <summary>amount of dés</summary>
+ 
 ## carte valeurs
 ### Dé 6 : 4
 ### Dé 12 : 2
@@ -82,3 +85,6 @@ Next Lancédédé: **date**
 <a name="20"/>
 
 ### D20
+
+
+</details>
