@@ -52,7 +52,7 @@ type *3D*
 <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083011-97eee36e-7c67-11e7-848c-229e16ebc77a.png" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img>
 
 ## Devis [ :scroll: ]: 
-type *vente* **8**  
+type *vente* **22**  
 type *projet* **4**  
 type *dossier ApP* **none**  
 
