@@ -19,7 +19,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|(Crrr used)	| Crrr	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:---:|:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|1190	![crrr]	|502	![crrr]	|688	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
+|1190	![crrr]	|522	![crrr]	|668	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
@@ -42,7 +42,7 @@ Digital crate for Openfab rewards
 ## Inkscape [ :star: ]: 8 tâches
 ## Fusion360 [ :star: :star: ]: 14 modèles
 \+ 1 mentoring
-## CNC [ :headphones: ]: 
+## CNC [ :headphones: ]:
 type *2D* **1**  
 type *2.5D*   
 type *3D*   
@@ -52,16 +52,16 @@ type *3D*
 ## buro274 [ :star: ]
 <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083011-97eee36e-7c67-11e7-848c-229e16ebc77a.png" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img>
 
-## Devis [ :scroll: ]: 
+## Devis [ :scroll: ]:
 type *vente* **24**  
 type *projet* **4**  
 type *dossier ApP* **none**  
 
 # Amout of:
- 
+
 <details>
   <summary>amount of dés</summary>
- 
+
 ## carte valeurs
 ### Dé 6 : 4
 ### Dé 12 : 2
@@ -77,7 +77,7 @@ Next Lancédédé: **date**
 - chercher 1 bac de maes au Delhaize [#66](https://github.com/openfab-lab/openfab/issues/66)
 - Nettoyage buro aspi [#81](https://github.com/openfab-lab/openfab/issues/81)
 - Nettoyage buro eau [#81](https://github.com/openfab-lab/openfab/issues/81)
-- Poubelles [#81](https://github.com/openfab-lab/openfab/issues/81) 
+- Poubelles [#81](https://github.com/openfab-lab/openfab/issues/81)
 ### D8
 ### D12
 - chercher 1 bac de maes au colruyt [#76](https://github.com/openfab-lab/openfab/issues/76)
