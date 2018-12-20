@@ -2,7 +2,7 @@
 # Nicolas de Barquin
 Bonjour, hey, holla, vamos a la playa senior zoro, allons à la plage monsieur renard. 
 mon blaz github est [nicolasdb](https://github.com/nicolasdb)
-## my why
+### my why
 Always start with a context
 
 - motivation? I don't want to work in a company, and I want to make a difference, to explore others options, earning a living the right way, the one who make sens but for that I need to get better at what I'm doing, and sharing is one component to that. 
@@ -13,12 +13,12 @@ Always good to add some quote to make your point:
 >“Sucking at something is the first step to being sorta good at something.”  
 ― Jake the Dog
 
-## howowowoh
+### howowowoh
 - **Learn**. Apprendre par l'exemple. Getting inspired. 
 - **Make**. Réaliser des projets, tester et explorer. J'ai commencé comme consommateur de l'opensource, dont une très grosse partie est disponible et partagée sur github.
 - **Share**. Pour dépasser mes limitations en tps et en compétence, je dois maintenant apprendre à travailler avec d'autres. Partager ce que je fais, connecter et reprendre le cycle d'apprentissage. LevelUP.
 
-## whaaaaaaaat?
+### whaaaaaaaat?
 I would like to 
 1. simplify introduction on github
 2. focus on how to use it solo for your project
