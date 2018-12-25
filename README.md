@@ -19,7 +19,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|(Crrr used)	| Crrr	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:---:|:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|1329	![crrr]	|642	![crrr]	|687	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
+|1465	![crrr]	|642	![crrr]	|823	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
@@ -40,11 +40,11 @@ Digital crate for Openfab rewards
 
 ## Lasersaur [ :star: ]: 8 tâches
 ## Inkscape [ :star: ]: 8 tâches
-## Fusion360 [ :star: :star: ]: 15 modèles
-\+ 1 mentoring
+## Fusion360 [ :star: :star: ]: 16 modèles
+\+ 2 mentoring
 ## CNC [ :headphones: ]:
 type *2D* **2**  
-type *2.5D*   
+type *2.5D* **1**   
 type *3D*   
 ## Menuiserie [ :star: ]: 1    
 ## fée du logis [ :star: ]: 6 tâches nettoyage
@@ -53,7 +53,7 @@ type *3D*
 <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083011-97eee36e-7c67-11e7-848c-229e16ebc77a.png" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img>
 
 ## Devis [ :scroll: ]:
-type *vente* **25**  
+type *vente* **26**  
 type *projet* **4**  
 type *dossier ApP* **none**  
 
