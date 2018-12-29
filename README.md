@@ -9,6 +9,9 @@ excerpt: "All the loot I collect and all the badges I earn"
 [dalek-icon]: https://user-images.githubusercontent.com/12049360/29084857-a9bc259c-7c6d-11e7-9b84-05fe2fb8e8db.jpg
 [tardis]: https://user-images.githubusercontent.com/12049360/29084870-ab320324-7c6d-11e7-9942-78547f363787.jpg
 [crrr]: https://user-images.githubusercontent.com/12049360/29777251-a3224790-8c0b-11e7-8751-848ac94bf6bf.png
+[solo1]: https://user-images.githubusercontent.com/12049360/50540833-55dd9e80-0b99-11e9-9a3d-534cff2a971d.PNG
+[solo2]: https://user-images.githubusercontent.com/12049360/50540834-570ecb80-0b99-11e9-9ebe-57cee8f6df6f.PNG
+[solo3]: https://user-images.githubusercontent.com/12049360/50540837-58d88f00-0b99-11e9-9b9d-8e44ca591bcb.PNG
 
 <note et commentaire>
 <Use \ for avoiding auto syntaxe on markdown for + or other symboles>
@@ -38,21 +41,28 @@ Digital crate for Openfab rewards
 ![dalek-icon]![dalek-icon]![dalek-icon]![dalek-icon]![tardis]![dalek-icon]![dalek-icon]![dalek-icon]
 ### 64 heures > Level 8
 
-## Lasersaur [ :star: ]: 8 tâches
-## Inkscape [ :star: ]: 8 tâches
-## Fusion360 [ :star: :star: ]: 16 modèles
-\+ 2 mentoring
-## CNC [ :headphones: ]:
-type *2D* **2**  
-type *2.5D* **1**   
+## Lasersaur 
+8 tâches ![solo1]
+## Inkscape 
+8 tâches ![solo1]
+## Fusion360 
+16 modèles ![solo1]![solo1]  
+\+ 2 mentoring ![solo2]
+## CNC
+type *2D* **2** ![solo1]  
+type *2.5D* **1** ![solo2]  
 type *3D*   
-## Menuiserie [ :star: ]: 1    
-## fée du logis [ :star: ]: 6 tâches nettoyage
-## 3dprint [ :star: ]: 40 prints
-## buro274 [ :star: ]
-<img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29083011-97eee36e-7c67-11e7-848c-229e16ebc77a.png" width="45"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img> <img src="https://user-images.githubusercontent.com/12049360/29082963-73dfa99a-7c67-11e7-86ee-b46bc5cdb862.png" width="40"></img>
+## Menuiserie
+1 ![solo1]    
+## fée du logis
+6 tâches nettoyage
+## 3dprint 
+40 prints
+## buro274
+![solo1]![solo1]![solo1]![solo1]![solo1]![solo2]![solo2]![solo2]
 
-## Devis [ :scroll: ]:
+## Devis
+ [ :scroll: ]
 type *vente* **27**  
 type *projet* **4**  
 type *dossier ApP* **none**  
