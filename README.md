@@ -38,8 +38,8 @@ Digital crate for Openfab rewards
 
 ## TimeLord
 <img src="https://user-images.githubusercontent.com/12049360/29082390-9dc5c9c6-7c65-11e7-9982-a0cb464c0b73.png" width="200"></img>     
-![dalek-icon]![dalek-icon]![dalek-icon]![dalek-icon]![tardis]![dalek-icon]![dalek-icon]![dalek-icon]
-### 64 heures > Level 8
+![dalek-icon]![dalek-icon]![dalek-icon]![dalek-icon]![tardis]![dalek-icon]![dalek-icon]![dalek-icon]![dalek-icon]![tardis]![dalek-icon]![dalek-icon]![dalek-icon]![dalek-icon]![tardis]![dalek-icon]
+### 645 heures > Level 16
 
 ## Lasersaur 
 9 tâches ![solo1]
