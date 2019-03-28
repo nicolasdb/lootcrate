@@ -22,7 +22,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|(Crrr used)	|    Crrr    	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:-----------:|:----------:|:-----------:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|2944	![crrr]	|1012	![crrr]|1932	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
+|3097	![crrr]	|1012	![crrr]|2085	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
@@ -67,7 +67,7 @@ type *vente* **29**
 type *projet* **4**  
 type *dossier ApP* **none**  
 
-Zoho **1**
+Zoho **2**
 
 ### Epic Accounting bonus
 <img src="https://user-images.githubusercontent.com/12049360/50728560-1af4e100-112c-11e9-9cae-1cdbe0ee21b2.png" width="100"></img> <img src="https://user-images.githubusercontent.com/12049360/50728560-1af4e100-112c-11e9-9cae-1cdbe0ee21b2.png" width="100"></img> 
