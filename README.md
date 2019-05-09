@@ -22,7 +22,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|(Crrr used)	|    Crrr    	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:-----------:|:----------:|:-----------:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|3461	![crrr]	|1012	![crrr]|2449	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
+|3546	![crrr]	|1012	![crrr]|2534	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
@@ -51,7 +51,7 @@ Digital crate for Openfab rewards
 17 modèles ![solo1]![solo1]  
 \+ 2 mentoring ![solo2]
 ## CNC
-type *2D* **3** ![solo1]  
+type *2D* **4** ![solo1]  
 type *2.5D* **1** ![solo2]  
 type *3D*   
 ## Menuiserie
@@ -67,9 +67,8 @@ type *3D*
  [ :scroll: ]
 type *vente* **29**  
 type *projet* **5**  
-type *dossier ApP* **none**  
-
-Zoho **3**
+type *dossier ApP* **none**   
+Zoho **4**  
 
 ### Epic Accounting bonus
 <img src="https://user-images.githubusercontent.com/12049360/50728560-1af4e100-112c-11e9-9cae-1cdbe0ee21b2.png" width="100"></img> <img src="https://user-images.githubusercontent.com/12049360/50728560-1af4e100-112c-11e9-9cae-1cdbe0ee21b2.png" width="100"></img> 
