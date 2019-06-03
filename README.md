@@ -48,7 +48,7 @@ Digital crate for Openfab rewards
 ## Inkscape 
 10 tâches ![solo1]
 ## Fusion360 
-17 modèles ![solo1]![solo1]  
+18 modèles ![solo1]![solo1]  
 \+ 2 mentoring ![solo2]
 ## CNC
 type *2D* **4** ![solo1]  
