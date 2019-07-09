@@ -22,7 +22,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|(Crrr used)	|    Crrr    	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:-----------:|:----------:|:-----------:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|3648	![crrr]	|1012	![crrr]|2636	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
+|3733	![crrr]	|1012	![crrr]|2721	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
@@ -44,9 +44,9 @@ Digital crate for Openfab rewards
 ### 645 heures > Level 16
 
 ## Lasersaur 
-10 tâches ![solo1]
+11 tâches ![solo1]
 ## Inkscape 
-10 tâches ![solo1]
+11 tâches ![solo1]
 ## Fusion360 
 18 modèles ![solo1]![solo1]  
 \+ 2 mentoring ![solo2]
