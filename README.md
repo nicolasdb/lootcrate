@@ -22,7 +22,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|(Crrr used)	|    Crrr    	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:-----------:|:----------:|:-----------:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|5839	![crrr]	|1012	![crrr]|4827	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
+|5907	![crrr]	|1012	![crrr]|4895	![crrr]	| (10) 1			|	(5) 4		|  0   |  (2) 2   |  0 | 8  |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
@@ -51,7 +51,7 @@ Digital crate for Openfab rewards
 18 modèles ![solo1]![solo1]  
 \+ 2 mentoring ![solo2]
 ## CNC
-type *2D* **4** ![solo1]  
+type *2D* **5** ![solo1]  
 type *2.5D* **1** ![solo2]  
 type *3D*   
 ## Menuiserie
@@ -65,7 +65,7 @@ type *3D*
 
 ## Accounting
  [ :scroll: ]
-type *vente* **29**  
+type *vente* **30**  
 type *projet* **5**  
 type *dossier ApP* **none**   
 Zoho **5**  
