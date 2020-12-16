@@ -32,7 +32,7 @@ Digital crate for Openfab rewards
 
 # badges:
 ## Efficiency
-2
+3
 ## Github
 <img src="https://user-images.githubusercontent.com/12049360/29082385-9d9fe38c-7c65-11e7-9aa7-dfede0df31fc.png" width="200"></img>    
 ![git01]![git01]![git01]![git01]![thundercat]![git01]![git01]![git01]![git01]![thundercat]![git01]![git01]![git01]![git01]![thundercat]![git01]![git01]![git01]
